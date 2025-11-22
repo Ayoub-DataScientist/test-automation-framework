@@ -1,6 +1,6 @@
 # Advanced Test Automation Framework
 
-## 🎯 Project Overview
+##  Project Overview
 
 This repository contains a **production-ready test automation framework** that combines **UI testing** (Playwright) and **API testing** (Requests) into a single, cohesive framework. It demonstrates **professional architecture**, **reusable utilities**, **comprehensive logging**, and **advanced reporting**.
 
@@ -14,7 +14,7 @@ This repository contains a **production-ready test automation framework** that c
 
 ---
 
-## 🏗️ Framework Architecture
+##  Framework Architecture
 
 The framework is organized into layers for maximum maintainability and reusability:
 
@@ -42,7 +42,7 @@ The framework is organized into layers for maximum maintainability and reusabili
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 test-automation-framework/
@@ -105,7 +105,7 @@ test-automation-framework/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ test-automation-framework/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -152,7 +152,7 @@ test-automation-framework/
 
 ---
 
-## ▶️ Running Tests
+##  Running Tests
 
 ### Run all tests
 ```bash
@@ -191,7 +191,7 @@ pytest tests/ -n 4
 
 ---
 
-## 🔧 Core Components
+##  Core Components
 
 ### 1. Logger Configuration
 
@@ -263,7 +263,7 @@ class UserAPI(BaseAPIClient):
 
 ---
 
-## 📊 Test Reporting
+##  Test Reporting
 
 The framework generates comprehensive HTML reports:
 
@@ -280,7 +280,7 @@ Reports include:
 
 ---
 
-## 🔐 Configuration Management
+##  Configuration Management
 
 The framework supports multiple environments:
 
@@ -295,7 +295,7 @@ timeout = config.TIMEOUT
 
 ---
 
-## 📝 Example Tests
+##  Example Tests
 
 ### UI Test Example
 
@@ -328,7 +328,7 @@ class TestUsersAPI(BaseTest):
 
 ---
 
-## 🎓 Key Learnings
+##  Key Learnings
 
 This framework demonstrates:
 1. **Layered Architecture:** Separation of concerns (UI, API, Utils)
@@ -340,7 +340,7 @@ This framework demonstrates:
 
 ---
 
-## 🔗 Related Repositories
+##  Related Repositories
 
 - [qa-portfolio-overview](https://github.com/Ayoub-DataScientist/qa-portfolio-overview) - Portfolio overview
 - [web-ui-testing-playwright](https://github.com/Ayoub-DataScientist/web-ui-testing-playwright) - UI testing
@@ -349,6 +349,6 @@ This framework demonstrates:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
